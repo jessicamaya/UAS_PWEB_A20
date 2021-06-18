@@ -1,0 +1,26 @@
+.navbar-logo {
+    background-image: url("../images/logoalgoin.png");
+    background-position: center;
+    background-size: cover;
+    width: 110px;
+    height: 50px;
+}
+
+.navbar-segitiga {
+    background-image: url('../images/navbar-triangle-down.png');
+    background-position: center;
+    background-size: cover;
+    width: 10px;
+    height: 7px;
+    margin-left: 5px;
+    margin-right: 20px;
+    cursor: pointer;
+}
+
+.footer-logo {
+    background-image: url('../images/logoalgoin.png');
+    background-position: center;
+    background-size: cover;
+    width: 110px;
+    height: 50px;
+}
